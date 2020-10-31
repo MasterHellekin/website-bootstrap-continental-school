@@ -1,30 +1,42 @@
 body {
   font-family: "Baloo 2", cursive;
   background: #fd7e14;
-  color: #fff; }
+  color: #fff;
+}
 
 .navbar {
   border-bottom: #fd7e14 3px solid;
-  opacity: 0.8; }
+  opacity: 0.8;
+}
 
 .carousel-item {
   min-height: 100vh;
-  min-width: 100vw; }
+  min-width: 100vw;
+}
 
 .carousel-image-1 {
   background: url("../img/presentacion01.png");
   background-repeat: round;
-  background-size: cover; }
+  background-size: cover;
+}
 
 .carousel-image-2 {
   background: url("../img/presentacion02.png");
   background-repeat: round;
-  background-size: cover; }
+  background-size: cover;
+}
 
 .carousel-image-3 {
   background: url("../img/presentacion03.jpg");
   background-repeat: round;
-  background-size: cover; }
+  background-size: cover;
+}
+
+.carousel-image-4 {
+  background: url("../img/presentacion04.png");
+  background-repeat: round;
+  background-size: cover;
+}
 
 #ofert-section .fas,
 #services-section .fas,
@@ -34,12 +46,16 @@ body {
   background: #fd7e14;
   color: #fff;
   padding: 5px;
-  border-radius: 5px; }
+  border-radius: 5px;
+}
 
 #team-section img {
-  margin-top: -50px; }
+  margin-top: -50px;
+}
 #team-section .card:hover {
   background: #fd7e14;
-  color: #fff; }
+  color: #fff;
+}
 #team-section .fab {
-  color: #fff; }
+  color: #fff;
+}
